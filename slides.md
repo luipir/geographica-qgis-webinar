@@ -136,6 +136,28 @@ Un método de aprendizaje
 * Comparte tus errores que la comunidad ayuda
 * No esperar que el plugin sea terminado (Frequent demo releases)
 ---
+## Portar desde 2.x a 3.x
+Es un buen momento para entrar en el mercado
+* Lo de Python:
+  * https://docs.python.org/3/howto/pyporting.html
+  * http://python-future.org/
+  * http://python-future.org/compatible_idioms.html
+
+* Lo de QGIS
+  * https://github.com/qgis/QGIS/blob/master/scripts/2to3
+---
+### Escribir codigo mas compatible
+* Abstrár QT4 y QT5
+  * from qgis.PyQt import (QtGui, QtCore,...)
+
+    en vez de:
+
+  * from PyQT4 import (QtGui, QtCore,...)
+  * from PyQT5 import (QtGui, QtCore,...)
+
+* Nuevas APIs para QGIS3:
+  * https://qgis.org/api/api_break.html
+---
 # Preguntas?
 * Luigi Pirelli
 * mail: luipir AT gmail DOT com
