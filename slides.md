@@ -92,11 +92,11 @@ Hay empresas grandes y pequeñas que basan sus negocios sobre QGIS o GFOSS
 ## Que es PyQGIS
 
 ### QGIS is wrote in (www.openhub.net/p/qgis):
-* C++ (almos all)
-* Python (some core plugins)
-* Javascript (some parts in Plugin Manager)
+* C++ (cuasi todo)
+* Python (algunos plugins)
+* Javascript (en alguan parte del Plugin Manager)
 ### SIP Bind
-95% of C++ API can be accessed by Python thanks to SIP
+95% de las API C++ se acceden desde Python gracias a SIP
 https://wiki.python.org/moin/SIP
  
 PyQGIS Cookbook
