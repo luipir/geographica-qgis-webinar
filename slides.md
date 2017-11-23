@@ -18,8 +18,11 @@ Desde entonces trabajando con QGIS
 
 ---
 # Co-author de Mastering QGIS (Packt)
+<img src="images/Cover-MasteringQGIS.png" alt="Drawing" style="width: 500px"/>
+
 ---
 # Modelo de negocio de QGIS
+
 ---
 ## Se puede vivir vendendo SW libre?
 
@@ -64,7 +67,8 @@ Hay empresas grandes y pequeñas que basan sus negocios sobre QGIS o GFOSS
 * en Castillano QGIS-es: http://lists.osgeo.org/cgi-bin/mailman/listinfo/qgis-es
 ---
 ## Los Hackmeetings
-![](images/HackmeetingNodebo.png)
+
+<img src="images/HackmeetingNodebo.png" alt="Drawing" style="width: 600px;"/>
 
 * La parte mas divertida
 * Se aprende mucho
