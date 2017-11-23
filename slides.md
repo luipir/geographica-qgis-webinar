@@ -1,22 +1,24 @@
 <!-- $theme: default -->
 
 # Quien soy
-- 15 años desarrollando Ground Segments de satellites Desde Landsat hasta Sentinel)
+- Ingeniero informático / Hacker social
 
-- Desde el 2006 en el mundo del GFOSS con contribuciones a GRASS
+- 15 años desarrollando Ground Segments de satélites. Desde Landsat hasta Sentinel
+
+- Desde el 2006 en el mundo de GFOSS con contribuciones a GRASS
 Desde entonces trabajando con QGIS
 
-- Fundadór del Italian OSGeo Local Chapter, www.gfoss.it
+- Cofundador del Italian OSGeo Local Chapter, www.gfoss.it
 
 ---
 ## y en QGIS?
-- Contributor al core de QGIS desde años con bug fix y nuevas funcionalidades (WMS legend, SLD, ...)
+- Contribuyendo al core de QGIS desde años con bug fix y nuevas funcionalidades (WMS legend, SLD, ...)
 
-- Desarrolaldor y portador (1.8->2.x) de muchos plugins
+- Desarrollador y portador (1.8->2.x) de muchos plugins
 
 - Trainer de PyQGIS
 
-- hace poco Desarrollando un producto baseado en QGIS para BoundlessGeo (EEUU)
+- hace poco desarrollando un producto basado en QGIS para BoundlessGeo (EEUU)
   - Miles de instalaciones en la administación de EEUU
   - Plugins para NASA y varias multinacionales
 
@@ -30,27 +32,27 @@ Desde entonces trabajando con QGIS
 ---
 ## Se puede vivir vendendo SW libre?
 
-En orden de importancia: Como hacemos negocio con SW Geografico libre?
+En orden de importancia: Como hacemos negocio con SW Geográfico libre?
 
 1. Customización (adaptar GUI, plugins, añadir botones, facilitar el trabajo)
-2. Suporte (Resolver problemas, 24/7 support)
+2. Soporte (Resolver problemas, 24/7 support)
 3. Bug Fix (Del core o de plugins)
-4. Producto/Paquetización (relacionado con el suporte)
+4. Producto/Paquetización (relacionado con el soporte)
 ---
-## Sanguijuelas o Contribudoras
+## Sanguijuelas o empresas que contribuyen
 
 En General hay que elegir si:
 * estar en la comunidad
-* ser como las mayoria que usa SW libre sin devolver
+* ser como la mayoría que usa SW libre sin devolver
 
 ### Hay poco grados intermedio. Ejemplo
 
 * devuelvo solo si me da una ventaja de marketing o imagen
-* Devuelvo para que lo demas me hagan los  tests
+* Devuelvo para que lo demás me hagan los  tests
 * Devuelvo si me lo permite el cliente (GPL)
 * hay mas ???
 ---
-## Casos de exito de los que estan en la comunidad
+## Casos de éxito de los que están en la comunidad
 
 Hay empresas grandes y pequeñas que basan sus negocios sobre QGIS o GFOSS
 
@@ -65,22 +67,22 @@ Hay empresas grandes y pequeñas que basan sus negocios sobre QGIS o GFOSS
 # Comunidad de desarrollo y usuarios
 ---
 ## Participar, ayudar y recibir ayuda
-* Reportar fallos - http://hub.qgis.org/issues
+* Notiifcar fallos - http://hub.qgis.org/issues
 * Ayudas - In ML o en freenode #qgis channel
 * Lista de fallos: https://github.com/qgis/QGIS/pulls
 * Traducír - http://qgis.org/en/site/getinvolved/translate.html
-* en Castillano QGIS-es: http://lists.osgeo.org/cgi-bin/mailman/listinfo/qgis-es
+* en Castellano QGIS-es: http://lists.osgeo.org/cgi-bin/mailman/listinfo/qgis-es
 ---
 ## Los Hackmeetings
 
 <img src="images/HackmeetingNodebo.png" alt="Drawing" style="width: 600px;"/>
 
-* La parte mas divertida
+* La parte más divertida
 * Se aprende mucho
-* Proximo  20-25 February 2018, Madeira (Pt)
+* Próximo  20-25 February 2018, Madeira (Pt)
 ---
-## Como se decide en QGIS	
-* PSC es la Dirección general (no tecnica)
+## Cómo se decide en QGIS	
+* PSC es la Dirección general (no técnica)
 * Committers
 * Un representante para cada UserGroup (y en ES?)
 * QEP https://github.com/qgis/QGIS-Enhancement-Proposals
@@ -109,27 +111,27 @@ http://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/
 http://geoapis.sourcepole.com/qgispyapi/
 https://webgeodatavore.github.io/pyqgis-samples
 ---
-### La mejor escuela: Leer el codigo de los plugins
-Una metodo de aprendizaje
-* Buscar el o los plugins mas similares
+### La mejor escuela: Leer el código de los plugins
+Un método de aprendizaje
+* Buscar el o los plugins más similares
 * Instalarlos
-* Estudiar el codigo en ~/.qgis2/python/plugins/\<plugin name\>
-* Hay mas de 800 plugins en el repo oficial, y mucho mas...
+* Estudiar el código en ~/.qgis2/python/plugins/\<plugin name\>
+* Hay más de 800 plugins en el repo oficial, y mucho más...
 ---
 ## Necesito un Plugin o Uno script de Processing?
 * Necesito un plugin? soy capaz?
   * Conocimiento de Python
   * Conocimiento de Programación a Objectos
   * Conocimeintos de QT
+
 * Y si hago uno script de Processing?
   * Solo conocimiento de Python
-  
   * puedo aprender desde otros scripts o modelos
 ---
 ## Desde donde empiezo?
 * Descarga los plugins similares
-* Estudia los scipts de Processing similares
-## Optimo es peór que Beuno!
+* Estudia los scripts de Processing similares
+## Optimo es peor que Bueno!
 * Escribe un esqueleto de plugin (Pluing Builder plugin)
 * Comparte tus errores que la comunidad ayuda
 * No esperar que el plugin sea terminado (Frequent demo releases)
@@ -139,4 +141,4 @@ Una metodo de aprendizaje
 * mail: luipir AT gmail DOT com
 * twitter: @Ginetto https://twitter.com/Ginetto
 * Linkedin: https://www.linkedin.com/in/luigipirelli/
-* Alquilame https://www.upwork.com/freelancers/~0131c8c572629837f3
+* Alquilame en www.upwork.com: goo.gl/BYRQKg
