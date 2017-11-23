@@ -1,27 +1,31 @@
 <!-- $theme: default -->
 
 # Quien soy
-- 15 años desarrollando Ground Segments de satellites Desde Landsata hasta Sentinel)
+- 15 años desarrollando Ground Segments de satellites Desde Landsat hasta Sentinel)
 
 - Desde el 2006 en el mundo del GFOSS con contribuciones a GRASS
 Desde entonces trabajando con QGIS
 
-- Fundadór del Italian OSGeo Local Chapter, GFOSS.it
+- Fundadór del Italian OSGeo Local Chapter, www.gfoss.it
 
-- Contributor al core de QGIS desde años con bug fix y nuevas funcionalidades (WMS legend, SLD)
+---
+## y en QGIS?
+- Contributor al core de QGIS desde años con bug fix y nuevas funcionalidades (WMS legend, SLD, ...)
 
-- Desarrolaldor portador de muchos plugins
+- Desarrolaldor y portador (1.8->2.x) de muchos plugins
 
 - Trainer de PyQGIS
 
-- hace poco Desarrollando un producto baseado en QGIS de una empresa de EEUU.
+- hace poco Desarrollando un producto baseado en QGIS para BoundlessGeo (EEUU)
+  - Miles de instalaciones en la administación de EEUU
+  - Plugins para NASA y varias multinacionales
 
 ---
-# Co-author de Mastering QGIS (Packt)
+# Co-autor de Mastering QGIS (Packt)
 <img src="images/Cover-MasteringQGIS.png" alt="Drawing" style="width: 500px"/>
 
 ---
-# Modelo de negocio de QGIS
+# Modelo de negocio con QGIS
 
 ---
 ## Se puede vivir vendendo SW libre?
@@ -42,8 +46,9 @@ En General hay que elegir si:
 ### Hay poco grados intermedio. Ejemplo
 
 * devuelvo solo si me da una ventaja de marketing o imagen
-* Devuelvo para que lo demas me hagan el testeo
+* Devuelvo para que lo demas me hagan los  tests
 * Devuelvo si me lo permite el cliente (GPL)
+* hay mas ???
 ---
 ## Casos de exito de los que estan en la comunidad
 
@@ -121,3 +126,17 @@ Una metodo de aprendizaje
   
   * puedo aprender desde otros scripts o modelos
 ---
+## Desde donde empiezo?
+* Descarga los plugins similares
+* Estudia los scipts de Processing similares
+## Optimo es peór que Beuno!
+* Escribe un esqueleto de plugin (Pluing Builder plugin)
+* Comparte tus errores que la comunidad ayuda
+* No esperar que el plugin sea terminado (Frequent demo releases)
+---
+# Preguntas?
+* Luigi Pirelli
+* mail: luipir AT gmail DOT com
+* twitter: @Ginetto https://twitter.com/Ginetto
+* Linkedin: https://www.linkedin.com/in/luigipirelli/
+* Alquilame https://www.upwork.com/freelancers/~0131c8c572629837f3
