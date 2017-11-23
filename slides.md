@@ -67,7 +67,7 @@ Hay empresas grandes y pequeñas que basan sus negocios sobre QGIS o GFOSS
 # Comunidad de desarrollo y usuarios
 ---
 ## Participar, ayudar y recibir ayuda
-* Notiifcar fallos - http://hub.qgis.org/issues
+* Notificar fallos - http://hub.qgis.org/issues
 * Ayudas - In ML o en freenode #qgis channel
 * Lista de fallos: https://github.com/qgis/QGIS/pulls
 * Traducír - http://qgis.org/en/site/getinvolved/translate.html
